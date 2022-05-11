@@ -1,5 +1,9 @@
 # Analyzing Unequal Opportunities in Education 
 
+• Michel Ruiz-Fuentes and Cindy Zhang
+• SDS192 (02) Data Science
+• 17 Dec. 2021
+
 https://nervous-nightingale-6b8dc0.netlify.app/index.html
 
 ## Introduction
