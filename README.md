@@ -14,13 +14,13 @@ Visualization 1 (interactive map)
 
 To further demonstrate the existence of education inequalities in California, we mapped the mean amount of students in 2016-17 that received free or reduced meals in each county. According to a 2021 research, receiving a reduced-price lunch in schools in California requires “an annual income of less than $48,000”, of which “59 percent of schoolchildren” 1 qualify under these standards. Whether students receive this resource is an important factor to study when assessing achievement rates and gaps because it’s an indication that those students are living at or below the poverty level, which helps us to comprehend why we may see larger achievement gaps in certain regions2. The deeper the color, the more students receive free or reduced meals. Though the number of students recorded doesn’t directly reflect the inequality among White and Latinx students, there is likely an association between the counties with a deeper color (which show larger rates of students receiving free meals and living at/below poverty), and their likelihood of experiencing more educational barriers in their current and higher education. To demonstrate such correlation, we continued to explore the data regarding both education and ethnicity through the remaining two graphs.
 
-## Expenditures for current expenses of public education in each county (in dollars)
+## Current Expenditures, in each county, for Public Schools in California (in dollars)
 
 Visualization 2 (bar graph)
 
 To further analyze the relationship between geographical factors and existing education inequality, we selected five counties with the most and least free or reduced meals and compared them on different scales due to the gaps in number. Because Viz 2 shades regions according to the number of students on this meal plan, we were curious to assess the correlation between this factor and state funding per county 3, evaluating whether unequal distributions existed. We recognize that school funding may differ due to population size in counties, but our focus here is to compare how school funding is associated with the mean amount of students receiving free or reduced meals. In addition, we will identify if regions with more students living at or below the poverty level are receiving more funding, which we would presume is the desire because those are the counties that need to provide more support for their student population.
 
-## University of California Admission Rates by Ethnic Populations (2010-2020)
+## University of California Admission Rates by Racial and Ethnic Populations (2010-2020)
 
 Visualization 3 (line graph)
 
