@@ -6,7 +6,7 @@
 
 https://nervous-nightingale-6b8dc0.netlify.app/index.html
 
-## Introduction
+## Introduction and Significance 
 
 Our project is an analysis of educational inequalities in America. Educational inequality can be defined as the unequal distribution of academic resources, including school funding, experienced teachers, textbooks, and technology1 . We will focus on the education system in California because UCLA researchers found that California is the one of the most segregated states, in regards to education2.
 
