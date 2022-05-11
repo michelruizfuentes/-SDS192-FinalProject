@@ -1,4 +1,4 @@
-# FinalProject-SDS192-
+# -SDS192-FinalProject
 Analyzing Unequal Opportunities in Education
 
 https://nervous-nightingale-6b8dc0.netlify.app/index.html
