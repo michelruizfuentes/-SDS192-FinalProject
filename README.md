@@ -18,7 +18,7 @@ Visualization 1 (interactive map)
 
 To further demonstrate the existence of education inequalities in California, we mapped the mean amount of students in 2016-17 that received free or reduced meals in each county. According to a 2021 research, receiving a reduced-price lunch in schools in California requires “an annual income of less than $48,000”, of which “59 percent of schoolchildren” 1 qualify under these standards. Whether students receive this resource is an important factor to study when assessing achievement rates and gaps because it’s an indication that those students are living at or below the poverty level, which helps us to comprehend why we may see larger achievement gaps in certain regions2. The deeper the color, the more students receive free or reduced meals. Though the number of students recorded doesn’t directly reflect the inequality among White and Latinx students, there is likely an association between the counties with a deeper color (which show larger rates of students receiving free meals and living at/below poverty), and their likelihood of experiencing more educational barriers in their current and higher education. To demonstrate such correlation, we continued to explore the data regarding both education and ethnicity through the remaining two graphs.
 
-## Current Expenditures, in each county, for Public Schools in California (in dollars)
+## Current Expenditures for Public Schools in California (in each county, per dollars)
 
 Visualization 2 (bar graph)
 
