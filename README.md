@@ -1,8 +1,15 @@
 # Analyzing Unequal Opportunities in Education 
 
-- Michel Ruiz-Fuentes and Cindy Zhang
+Group Project Authors
+- Michel Ruiz-Fuentes
+- Cindy Zhang
+
+Course and Instructor
 - SDS192 (02) Introduction to Data Science
-- 17 Dec. 2021
+- Professor Kim
+
+Submission Date
+- Friday December 17, 2021
 
 https://nervous-nightingale-6b8dc0.netlify.app/index.html
 
