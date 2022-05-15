@@ -12,6 +12,11 @@ Our project is an analysis of educational inequalities in America. Educational i
 
 In our primary data visualization, we made an interactive map, with the division of counties, showing the achievement gap between White and Latinx students. Darker regions indicate a larger achievement gap, whereas lighter regions show a smaller achievement gap. (let’s add a legend showing what each color indicates. To better understand why achievement gaps exist, in our more analysis we will observe how funding and a factor from a student’s placement on the Education Equality Index3 may impact their abilities to attain a good education. Additionally, we have a graphic comparing the admission rates of Latinx students over the years, in addition to other ethnicity.
 
+## Map of Educational Achievement Gaps in California
+### An Analysis Between White and Latinx Students in 2017
+
+Main Visualization (interactive map)
+
 ## Mean Amount of Students Receiving Free or Reduced Meals (by county)
 
 Visualization 1 (interactive map)
